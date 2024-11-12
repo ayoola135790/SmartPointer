@@ -3,7 +3,8 @@
 #include <string>
 #include "SmartPointer.cpp"
 using namespace std;
-//Professor Russell's test case
+
+//test case to ensure code passes
 void test1()
 {
 	{
